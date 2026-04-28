@@ -20,8 +20,3 @@ streamlit run app.py
 - 지도안/슬라이드 수정 모드 및 점검 확인
 - 학습지 문항 구조화 렌더링
 - 전체 결과 Word 다운로드
-- HWPX 변환 시도 버튼
-
-## HWPX 참고
-
-HWPX 변환은 PC에 pandoc 또는 pypandoc-hwpx 계열 변환 도구가 설치되어 있어야 작동할 수 있음. 변환이 실패할 경우 Word 파일을 내려받아 한글에서 열고 HWPX로 저장하는 방식을 권장함.
